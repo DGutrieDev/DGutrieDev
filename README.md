@@ -1,4 +1,4 @@
-<img align="left" height="160" src="https://i.pinimg.com/736x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg"  />
+<img align="left" height="130" src="https://i.pinimg.com/736x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg"  />
 
 ###
 
@@ -10,23 +10,33 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<br clear="both">
+
+<p align="center">Hey there 👋</p>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
+<br clear="both">
+
 <h6 align="left">I'm Denny Gutrie from Costa Rica<br><br>- 🔭 I’m working as a junior developer.<br>- 📚 I'm currently learning MongoDB.<br>-⚡ In my free time, I work on my personal software projects.</h6>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br clear="both">
+
+<h5 align="left">🛠 Language and tools</h5>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -77,6 +87,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/DGutrieDev/DGutrieDev/output/snake.svg" alt="Snake animation" />
 
