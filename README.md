@@ -1,16 +1,14 @@
-<img align="left" height="130" src="https://i.pinimg.com/736x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg"  />
+<img align="left" height="160" src="https://i.pinimg.com/736x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/denny-gutrie-arguedas-952621301/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
-
-<br clear="both">
 
 <p align="center">Hey there 👋</p>
 
@@ -24,7 +22,7 @@
 
 <br clear="both">
 
-<h6 align="left">I'm Denny Gutrie from Costa Rica<br><br>- 🔭 I’m working as a junior developer.<br>- 📚 I'm currently learning MongoDB.<br>-⚡ In my free time, I work on my personal software projects.</h6>
+<p align="left">I'm Denny Gutrie from Costa Rica<br><br>- 🔭 I’m working as a junior developer.<br>- 📚 I'm currently learning MongoDB.<br>-⚡ In my free time, I work on my personal software projects.</p>
 
 ###
 
@@ -82,8 +80,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DGutrieDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DGutrieDev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DGutrieDev&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
