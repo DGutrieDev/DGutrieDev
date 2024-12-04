@@ -7,7 +7,7 @@ Software Developer
 I'm technology enthusiast with a particular focus on web development. In the field of web development, I excel at creating robust and efficient web systems. I have a solid understanding of various programming languages, such as HTML, CSS, and JavaScript, and frameworks like React and Angular
 
 * 🌍  I'm based in Costa Rica
-* 🖥️  See my portfolio at [DGutrieDev](http://https://dgutriedev.netlify.app/)
+* 🖥️  See my portfolio at [DGutrieDev](https://dgutriedev.netlify.app/)
 * ✉️  You can contact me at [dennyg.dev@gmail.com](mailto:dennyg.dev@gmail.com)
 * 🧠  I'm learning .NET , MongoDB
 
