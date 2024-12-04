@@ -10,7 +10,6 @@ I'm technology enthusiast with a particular focus on web development. In the fie
 * 🖥️  See my portfolio at [DGutrieDev](http://https://dgutriedev.netlify.app/)
 * ✉️  You can contact me at [dennyg.dev@gmail.com](mailto:dennyg.dev@gmail.com)
 * 🧠  I'm learning .NET , MongoDB
-* 
 
 ### Skills
 
